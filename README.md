@@ -34,8 +34,8 @@
 ---
 
 - :man_student: I'm currently also dedicated to obtaining a bachelor's degree in I.S.
-- 🔭 my career ambition is to achieve specialized knowledge in programming, networks and security in order to be able to act as a [bugbounter](). ~But who knows, life is short isn't?~
-- 🤔 I’m looking for help with blockchain things. I'm starting the development of research at the university and the theme I have in mind is "Making the Internet via mobile devices using a blockchain-based traffic network". Idk. It seems utopian to think that the internet could (and should) be free and inherent to human access/knowleged just like water SHOULD be... Who knows, right? If the inventor of Blockchain didn't show up, should we?
+- 🔭 my career ambition is to achieve specialized knowledge in programming, networks and security in order to be able to act as a bugbounter. ~But who knows, life is short isn't?~
+- 🤔 I’m looking for help with blockchain things. V'z fgnegvat gur qrirybczrag bs erfrnepu ng gur havirefvgl naq gur gurzr V unir va zvaq vf "Znxvat gur Vagrearg ivn zbovyr qrivprf hfvat n oybpxpunva-onfrq genssvp argjbex". Vqx. Vg frrzf hgbcvna gb guvax gung gur vagrearg pbhyq (naq fubhyq) or serr naq vaurerag gb uhzna npprff/xabjyrtrq whfg yvxr jngre FUBHYQ or... Jub xabjf, evtug? Vs gur vairagbe bs Oybpxpunva qvqa'g fubj hc, fubhyq jr?
 
 
 <!--
