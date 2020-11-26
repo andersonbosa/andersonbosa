@@ -13,7 +13,9 @@
 
 ### Hi 👋
 
-#### 🔭 some experiences
+- ⚡ Fun fact ... did you know that bees also get drunk?
+
+#### 🔭 some of my experiences
 
 - One year and half of internship as fullstack developer. Working with vue.js, node.js, molecular.js, python, jest, docker, mysql, circle ci.
 
@@ -24,17 +26,12 @@
 - Network concepts and their security.
 - Getting interesed by Go and React.
 
-
 ---
 
-
 - :man_student: I'm currently also dedicated to obtaining a bachelor's degree in I.S.
-- 🤔 I’m looking for help with blockchain things. I'm starting the development of research at the university and the theme I have in mind is "Making the Internet via mobile devices using a blockchain-based traffic network". Do not know. It seems utopian to think that the internet could be free and inherent to human access. Who knows, right? If the inventor of Blockchain didn't show up, should we?
 - 🔭 my career ambition is to achieve specialized knowledge in programming, networks and security in order to be able to act as a [bugbounter](). ~But who knows, life is short isn't?~
+- 🤔 I’m looking for help with blockchain things. I'm starting the development of research at the university and the theme I have in mind is "Making the Internet via mobile devices using a blockchain-based traffic network". Idk. It seems utopian to think that the internet could (and should) be free and inherent to human access/knowleged just like water SHOULD be... Who knows, right? If the inventor of Blockchain didn't show up, should we?
 
-
-
-- ⚡ Fun fact: ... did you know that bees also get drunk?
 
 <!--
 **andersonbosa/andersonbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
