@@ -21,10 +21,13 @@
 
 #### 🌱 learning about
 
-- C and C++ development.
-- Algoritms and data structures.
+- Step into C/C++
+- Algoritms and data structures (_some monsters never die_).
 - Network concepts and their security.
 - Getting interesed by Go and React.
+
+### 📫 How to reach me: [mail!](mailto://andersonbosa0@gmail.com)
+
 
 <!--
 
