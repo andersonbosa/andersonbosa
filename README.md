@@ -26,7 +26,7 @@
 - Network concepts and their security.
 - Getting interesed by Go and React.
 
-#### [![Gmail Badge](https://img.shields.io/badge/-andersonbosa0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonbosa0@gmail.com)](mailto:andersonbosa0@gmail.com)
+#### Contact: [![Gmail Badge](https://img.shields.io/badge/-andersonbosa0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonbosa0@gmail.com)](mailto:andersonbosa0@gmail.com)
 
 
 <!--
