@@ -11,9 +11,7 @@
   </a>
 </p>
 
-### Hi 👋
-
-- ⚡ Fun fact ... did you know that bees also get drunk?
+### Hello! 👋
 
 #### 🔭 some of my experiences
 
