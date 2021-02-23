@@ -30,14 +30,6 @@
 
 
 <!--
-
-- :man_student: I'm currently also dedicated to obtaining a bachelor's degree in I.S.
-- 🔭 my career ambition is to achieve specialized knowledge in programming, networks and security in order to be able to act as a bugbounter. ~But who knows, life is short isn't?~
-- 🤔 I’m looking for help with blockchain things. V'z fgnegvat gur qrirybczrag bs erfrnepu ng gur havirefvgl naq gur gurzr V unir va zvaq vf "Znxvat gur Vagrearg ivn zbovyr qrivprf hfvat n oybpxpunva-onfrq genssvp argjbex". Vqx. Vg frrzf hgbcvna gb guvax gung gur vagrearg pbhyq (naq fubhyq) or serr naq vaurerag gb uhzna npprff/xabjyrtrq whfg yvxr jngre FUBHYQ or... Jub xabjf, evtug? Vs gur vairagbe bs Oybpxpunva qvqa'g fubj hc, fubhyq jr?
-
--->
-
-<!--
 **andersonbosa/andersonbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
