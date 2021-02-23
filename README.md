@@ -13,9 +13,11 @@
 
 ### Hello! 👋
 
+
 #### 🔭 some of my experiences
 
 - One year and half of internship as fullstack developer. Working with vue.js, node.js, molecular.js, python, jest, docker, mysql, circle ci.
+- I'm currently a Fullstack Developer at [Linx Impulse.](https://www.linx.com.br/transformacao-digital/linx-impulse/)
 
 #### 🌱 learning about
 
@@ -24,11 +26,21 @@
 - Network concepts and their security.
 - Getting interesed by Go and React.
 
-#### 📫 How to reach me: [mail!](mailto://andersonbosa0@gmail.com)
+#### [![Gmail Badge](https://img.shields.io/badge/-andersonbosa0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonbosa0@gmail.com)](mailto:andersonbosa0@gmail.com)
 
 
 <!--
-**andersonbosa/andersonbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### O que deve ter no seu README?
+
+- Uma breve apresentação sobre você
+- Seus contatos. (Email, LinkedIn, Blog...)
+- Aonde você trabalha atualmente
+- O que você está estudando
+- Em que você procura colaborar
+- Com o que você pode ajudar quem estiver precisando
+- Como entrar com contato com você
+
+Uma dica é manter o perfil clean, com foco nos principais pontos.
 
 Here are some ideas to get you started:
 
