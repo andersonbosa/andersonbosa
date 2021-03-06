@@ -1,14 +1,25 @@
 <p>
+  <!-- 
+    If you want to make your own icons, here's a rustic step-by-step:
+    
+    1. Download the icon, example: `wget <link.ico>`
+    2. Convert to image format. I recommend using `imagemagick`.
+    3. Apply base64 encode: `cat <image_path.pnj> | base64`
+    4. Done!! :)
+   -->
+
+  <!-- Portfolio shield  -->
+  <a href="https://anderson-bosa.vercel.app/" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=plastic&color=000000&logoColor=white&logo=data:image/png;charset=utf-8;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAzFJREFUaIHVmrFPE1Ecxz8VqGFoWhyw4IpBTIRJFHRzUxLCP1DGDgwmMjOxkLDIxMrQgY1JSQoBRhPDQAwa42QvhcBgAjY0Qrmfw72rtba9692vln6S39Lcvff93Xv93rv3exHCEwMeAk+Bx8AIcA+IA7fNNb+AMyAPfAE+Ah+Az8DPMJ1HAt7XBdwHXgEvgUfAHfO7H66BH8An4D3wDvhmfm8pt4BRYAWwABuQkGEDOdPmqOmjJfQDC0Z4WNH1wjJ99GsKjwDPgD2cIW6VeDeugV3TZ9ApXqYbSNHap95oNFJGQyB6gDc47vG/xbtxZjT0NCu+y9xYaKN4NwpGS1MjkaK9T77WSMz6Ff+c9sx5r7CMtob04zhAu8XWi13gbqMEFtB5OQkgiURCBgYGNBOwjcaajOK8EdU6nJ6eltXVVenr69NMIgeMVYuPAG81xSeTSdna2pKLiwuZmZnRnkorVC05RrSffjqdlqurKxER2dnZkcHBQe1RGKlMYF5T/NDQkBwcHIhLqVSSubk57VGYd8XHgG2thqPRqCwuLko1h4eHMjw8rJnAttHOE+BEq+Hx8XGxLOufBERElpaWJBqNaiVwYrTzGihpNJpIJGRtba2meBGRo6MjmZyc1EqgZLST0Xr6U1NTcn5+XjcBEZFMJqNpqxmAfY3GksmkZLPZhuJFRAqFgqat7gMcazSWTqfl8vLSMwERVVs9BiiGbajaNr1QtNUihFz71LNNL5Rs1Q6dQCPb9ELBVu1QU8jLNr1QsNUihPgT+7FNL0La6jEEtFG/tulFSFvdh4AvsmZs04sQtpqBAEuJZm3Ti4C2Wl5KNLWYC2qbXgSw1fJirqnl9MTEhOTzefUERESWl5elt7fXbwLbQKwbZ39+E3iBD+LxOOvr69i27edy30QiEU5PT4nFYhSLRT+3bFJRW1D/pGxxfAcewJ8P46/Ahp+0bwgbOJr/YozOGIUczhZQTVQ3tloQDTe2oDO2Fj2rNx29uesyy83bXk/5FQ9OMeGmFTj8lnDLdHSJyaWji3wu7Siz7qFUZq2kYwvdlVQeNcihd9TAIuBRg44/7KExx9p63OY3L0Fy+MZ7cxoAAAAASUVORK5CYII="
+      alt="Check me! 🌠" style="max-width:100%;">
+  </a>
+  <!--  Linkedin shield-->
   <a href="https://www.linkedin.com/in/andersonbosa" rel="nofollow">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"
       alt="Linkedin Badge" style="max-width:100%;">
   </a>
 
-  <a href="https://linktr.ee/andersonbosa/" rel="nofollow">
-    <img
-      src="https://img.shields.io/badge/@andersonbosa-%230077B5.svg?&style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAdCAIAAADdBCBlAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACNklEQVRIie3VTWsTURQG4PfcOx/JJJkZE63tNKYUJdgPP0DciAsRFVGLdFG7cNs/oGsRN/4YBQWXuvEHWGwWQt1FsS0h0DpNTSaTmXuPi0jdtIVRumrv8vCeh3dx4VBw9TEO7YnDo4/1o6kzGIA961eeTCMvh0NyZOXpjD3j7Qb+UQcDBnmLk+WFqdKtYDgr3QnKC1P+o0mW/9GdwURUuD7iXKjE6z+9hzUUJXmmO1eL1zbzl04Wro0Q6ID6xsHFyZHufA0AD1IrKPnzE5BkjZaSsAdTevO1aHkTkcrcnQEiKt4dz50rqyghQTrR9rSfO+/rVJMgFQ1y9Urx9vgwnE0nQFZs735V9xOi4UyHr5rh6yaIARCRHiTug6ooW5RVB1Caq5qBq+OUwbJk9z61+42taGWru9wWRZvBOk6tquveq+4n7KubE4XijTHV7YNAQqooCd98IxAxOm+/6zglIQBS3bh4MzDOONn0E0t1a9QVpiEsQ+TNnfdrg9UOgxkcfwl3PvyQjiUsKUxpBW5lqb4nsu+f4YHurbS00jJv2mc93U+NcSfZ6AEwAocjxamOmx3dV0ISJ3pPhA64HixBCvasf/r5ZenYvUa79ewzCGMvr+QvnlK/+q0XjcHX7WEsW3fgzw4rsGZOUoBBBAKIOElZa2jejWXWmUAMGGR4jsyZIt8BMwByhOEXyDIg6W8sc3cGALXe237XlJ4Vr4YEAqP7sZVuxCqM01a0G9tbOL7ax/oR0n8DJ5XfKTJfAjMAAAAASUVORK5CYII=&logoColor=white&color=12100E"
-      alt="Linktree Badge" style="max-width:100%;">
-  </a>
 </p>
 
 ### Hello! 👋
@@ -16,8 +27,7 @@
 
 #### 🔭 some of my experiences
 
-- One year and half of internship as fullstack developer. Working with vue.js, node.js, molecular.js, python, jest, docker, mysql, circle ci.
-- I'm currently a Fullstack Developer at [Linx Impulse.](https://www.linx.com.br/transformacao-digital/linx-impulse/)
+- One year and half as Fullstack Developer working with Vue.js, node.js, molecular.js, python, jest, docker, mysql, circle ci, etc at [Linx Impulse.](https://www.linx.com.br/transformacao-digital/linx-impulse/).
 
 #### 🌱 learning about
 
