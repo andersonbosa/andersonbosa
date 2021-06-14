@@ -31,9 +31,9 @@
 
 #### 🌱 learning about
 
-- Step into C/C++
-- Algoritms and data structures (_some monsters never die_).
+- Algoritms and data structures (_because monsters never die_).
 - Network concepts and their security.
+- Step into C/C++
 - Getting interesed by Go and React.
 
 #### Contact: [![Gmail Badge](https://img.shields.io/badge/-andersonbosa0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonbosa0@gmail.com)](mailto:andersonbosa0@gmail.com)
