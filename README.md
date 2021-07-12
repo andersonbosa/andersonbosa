@@ -38,6 +38,11 @@
 
 - Algoritms and data structures (~~because monsters never die~~); Network concepts and their security; Step into C/C++ and studying more about Vue.js.
 
+#### Most used languages:
+
+<a href="https://github.com/andersonbosa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&theme=dark" />
+</a>
 
 <!--
 ### O que deve ter no seu README?
