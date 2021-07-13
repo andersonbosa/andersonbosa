@@ -36,7 +36,7 @@
 
 #### 🌱 learning
 
-- Algoritms and data structures (~~because monsters never die~~); Network concepts and their security; ~~Step into C/C++ (paused for a while)~~ and studying more about Vue.js.
+- Algoritms and data structures (~~because monsters never die~~); Network concepts and their security; ~~Step into C/C++ (paused for a while)~~ studying more about Node and Vue.js.
 
 #### Most used languages:
 
