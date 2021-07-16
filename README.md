@@ -1,34 +1,11 @@
-<style>
-  .button {
-    background-color: white;
-    color: #757575;
-    border: 1px #757575 solid;
-    border-radius: 5px;
-    padding: 2px 6px;
-  }
+<section id="badges">
+<span align="center">
 
-  .button:hover {
-    background-color: grey;
-    color: white;
-    border-radius: 0px;
-    border: 1px grey solid;
-  }
+[![][blogBadge]](https://dev.to/andersonbosa)
+[![][gmailBadge]](mailto:andersonbosa0@gmail.com)
+[![][linkedinBadge]](https://www.linkedin.com/in/andersonbosa/)
 
-  #projects {
-    min-height: 350px;
-  }
-
-  br#divider {
-    margin-top: 125px;
-  }
-</style>
-
-<section align="center" id="badges">
-
-  [![][blogBadge]](https://dev.to/andersonbosa)
-  [![][gmailBadge]](mailto:andersonbosa0@gmail.com)
-  [![][linkedinBadge]](https://www.linkedin.com/in/andersonbosa/)
-
+</span>
 </section>
 
 <br />
