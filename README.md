@@ -25,11 +25,10 @@
 
 <br >
 
-<div align="right" style="border: 1px solid grey; border-radius: 4px; color: grey;" onmouseenter="alert('b00m!')">
-  <span href="#badges">
-    back to top
-  </span>
+<div align="right" style="border: 1px solid grey; border-radius: 4px; color: grey;" onhover="alert('b00m!')" >
+  <a href="#badges"> back to top </a>
 </div>
+
 
 
 [blogBadge]: https://img.shields.io/badge/-📓%20blog-b000ff
