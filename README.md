@@ -23,10 +23,10 @@
   </div>
 </section>
 
-<br id="divider">
+<br >
 
-<div align="right">
-  <span class="button" href="#badges">
+<div align="right" style="border: 1px solid grey; border-radius: 4px; color: grey;" onmouseenter="alert('b00m!')">
+  <span href="#badges">
     back to top
   </span>
 </div>
