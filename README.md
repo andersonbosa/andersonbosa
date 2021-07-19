@@ -1,11 +1,14 @@
 <html>
 <div id="shields">
   <div align="center">
-    <a href="https://dev.to/andersonbosa"> <img src="https://img.shields.io/badge/-🖋️%20blog-b000ff" alt="blog badge" /> </a>
-    <a href="mailto:andersonbosa0@gmail.com"> <img src="https://img.shields.io/badge/-email-ab0000?logo=Gmail&logoColor=white" alt="gmail badge" /> </a>
-    <a href="https://www.linkedin.com/in/andersonbosa/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="linkedin badge" /> </a>
+    <a href="http://andersonbosa.bio.link/"> <img src="https://img.shields.io/badge/-🔗%20bio.links-dfdfdf" alt="biolink shield" /> </a>
+    <a href="https://dev.to/andersonbosa"> <img src="https://img.shields.io/badge/-🖋️%20blog-b000ff" alt="blog shield" /> </a>
+    <a href="mailto:andersonbosa0@gmail.com"> <img src="https://img.shields.io/badge/-email-ab0000?logo=Gmail&logoColor=white" alt="gmail shield" /> </a>
+    <a href="https://www.linkedin.com/in/andersonbosa/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="linkedin shield" /> </a>
   </div>
 </div>
+
+
 
 <div id="badges" align="center">
   <div>
@@ -80,14 +83,16 @@
 
 <br>
 
-<div align="right">
-<a href="#shields" >
-<button style="border: 1px solid grey; border-radius: 4px; color: grey;">back to top</button>
-</a>
+
+<br>
+
+<div>
+  <div align="right"> <a href="#shields" > back to top</a> </div>
+  <div align="left"> :pleading_face: If you like what I do and want help me, maybe consider 
+    <a href="https://www.buymeacoffee.com/andersonbosa">buying</a> me a coffee</div>
 </div>
+</html>
 
 <!-- links
 https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&theme=dark
 -->
-
-</html>
