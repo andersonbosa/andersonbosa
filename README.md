@@ -49,7 +49,7 @@
   </p>
     
   <p>
-    <a href="https://github.com/andersonbosa/nlw4-nodejs">nlw4-nodejs</a> — Project create during the Next Level Week 4 by <a href="https://github.com/rocketseat">@Rocketseat</a>. A REST API in typescript that simple send emails to users and calculate the NPS.
+    <a href="https://github.com/andersonbosa/nlw4-nodejs">nlw4-nodejs</a> — Project developed during the Next Level Week 4 by <a href="https://github.com/rocketseat">@Rocketseat</a>. A REST API in typescript that simple send emails to users and calculate the NPS.
   </p>
   </div>
 </div>
