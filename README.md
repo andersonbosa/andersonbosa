@@ -34,7 +34,7 @@
   <h3>Challenges</h3>
   <div align="justify">
     <p>
-      <a href="https://github.com/andersonbosa/calc-app">calc-app</a>  — <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md">#1</a>
+     ✔️ <a href="https://github.com/andersonbosa/calc-app">calc-app</a>  — <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md">#1</a>
     </p>
   </div>
 </div>
