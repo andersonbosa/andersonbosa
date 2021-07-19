@@ -13,12 +13,7 @@
 <section id="projects">
   <div align="justify">
     <p>
-      Sunt eu pariatur elit elit quis ad exercitation ipsum esse consequat ex. Et culpa commodo consequat quis
-      consectetur reprehenderit. Cupidatat sint proident veniam cillum veniam ad sint id non. Et do reprehenderit
-      occaecat
-      laboris. Ullamco excepteur et exercitation laboris nulla enim ipsum qui deserunt. Minim veniam deserunt cillum
-      pariatur reprehenderit labore magna. Aliqua minim voluptate sunt quis eu sit cillum nostrud elit non labore
-      mollit.
+      developer and security enthusiast
     </p>
   </div>
 </section>
