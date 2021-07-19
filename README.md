@@ -9,8 +9,10 @@
 
 <br />
 
+
+
 <div id="projects">
-  <h3>Projects</h3>
+  <h3>🏗️ Projects</h3>
   <div style="margin-left: 33px;">
     <p>
       <a href="https://github.com/andersonbosa/btm">btm</a> — A tool to speed up the setup of development environments
@@ -31,7 +33,7 @@
 <br>
 
 <div id="challenges">
-  <h3>Challenges</h3>
+  <h3>🏆 Challenges</h3>
   <div align="justify">
     <p>
      ✔️ <a href="https://github.com/andersonbosa/calc-app">calc-app</a>  — <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md">reference</a>
