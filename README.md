@@ -13,7 +13,7 @@
 <section id="projects">
   <div align="justify">
     <p>
-      developer and security enthusiast
+      lenny-face~
     </p>
   </div>
 </section>
