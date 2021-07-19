@@ -1,11 +1,21 @@
 <html>
-<div id="badges">
+<div id="shields">
   <div align="center">
     <a href="https://dev.to/andersonbosa"> <img src="https://img.shields.io/badge/-🖋️%20blog-b000ff" alt="blog badge" /> </a>
     <a href="mailto:andersonbosa0@gmail.com"> <img src="https://img.shields.io/badge/-email-ab0000?logo=Gmail&logoColor=white" alt="gmail badge" /> </a>
     <a href="https://www.linkedin.com/in/andersonbosa/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="linkedin badge" /> </a>
   </div>
 </div>
+
+<div id="badges" align="center">
+  <div>
+    <a href="https://www.hackerrank.com/andersonbosa?" >
+      <img src="https://user-images.githubusercontent.com/8931900/126213235-36e3db85-cf22-43e3-b7d5-9d48a374d7b7.png" />
+      <img src="https://user-images.githubusercontent.com/8931900/126213609-7fc6e2a4-d4c6-42fc-947e-af14de4ff2d9.png" />
+    </a>
+  </div>
+</div>
+
 
 <br />
 
@@ -71,7 +81,7 @@
 <br>
 
 <div align="right">
-<a href="#badges" >
+<a href="#shields" >
 <button style="border: 1px solid grey; border-radius: 4px; color: grey;">back to top</button>
 </a>
 </div>
