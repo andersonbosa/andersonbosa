@@ -1,7 +1,7 @@
 <html>
 <div id="badges">
   <div align="center">
-    <a href="https://dev.to/andersonbosa"> <img src="https://img.shields.io/badge/-📓%20blog-b000ff" alt="blog badge" /> </a>
+    <a href="https://dev.to/andersonbosa"> <img src="https://img.shields.io/badge/-🖋️%20blog-b000ff" alt="blog badge" /> </a>
     <a href="mailto:andersonbosa0@gmail.com"> <img src="https://img.shields.io/badge/-email-ab0000?logo=Gmail&logoColor=white" alt="gmail badge" /> </a>
     <a href="https://www.linkedin.com/in/andersonbosa/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="linkedin badge" /> </a>
   </div>
