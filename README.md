@@ -67,11 +67,19 @@
 <div id="challenges">
  <h3>🏆 Challenges</h3>
  <div align="justify">
-  <p>
+
+   <p id="challenges0">
    ✔️ <a href="https://github.com/andersonbosa/calc-app">calc-app</a> —
    <a href="https://cryptic-tor-88012.herokuapp.com/">demo</a> —
    <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md">reference</a>
   </p>
+  
+   <p id="challenges1">
+   ✔️ <a href="https://github.com/andersonbosa/markdown-editor-app">markdown-editor-app</a> —
+   <a href="https://tranquil-tundra-93011.herokuapp.com/">demo</a> —
+   <a href="https://github.com/florinpop17/app-ideas#tier-2-intermediate-projects">reference</a>
+  </p>
+  
  </div>
 </div>
 
