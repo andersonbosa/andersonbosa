@@ -19,7 +19,7 @@
    <img src="https://user-images.githubusercontent.com/8931900/126213609-7fc6e2a4-d4c6-42fc-947e-af14de4ff2d9.png" />
   </a>
  </div>
- <!-- <div> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andersonbosa" /> </div> -->
+ <!-- <div> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andersonbosa&theme=synthwave&layout=compact&range=last_year" /> </div> -->
 </div>
 
 <br />
