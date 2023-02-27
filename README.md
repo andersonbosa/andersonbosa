@@ -38,10 +38,12 @@
 - Developer at [Conviso](https://www.convisoappsec.com/)
 - I love a freshly brewed cup of coffee! :coffee:
 
-![Metrics](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/github-metrics.svg)
+![Metrics](./github-metrics.svg)
+
+<!--
 ![Notable contributions](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/achievements.svg)
 
-<!--
+
 [![@andersonbosa's Holopin board](https://holopin.io/api/user/board?user=andersonbosa)](https://holopin.io/@andersonbosa)
 -->
