@@ -93,11 +93,21 @@
 
 <div id="extras">
   <h3 align="left">Quotes</h3>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" title="Random quote">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" >
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+      title="Random quote"
+      alt="Random quote"
+      width="60%"
+    />
   </a>
   <a href="https://github.com/ABSphreak/readme-jokes" target="_blank">
-    <img src="https://readme-jokes.vercel.app/api" title="Funny quote">
+    <img 
+      src="https://readme-jokes.vercel.app/api"
+      title="Funny quote" 
+      alt="Funny quote" 
+      width="39%"
+    />
   </a>
 </div>
 
