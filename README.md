@@ -31,20 +31,20 @@
 <div align="center" id="github-stats">
   <h4 align="left">Stats</h4>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats">
   </a>
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks">
   </a>
 </div>
 
 <div align="center" id="extras">
   <h4 align="left">Quotes</h4>
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" title="Random quote">
   </a>
   <a href="https://github.com/ABSphreak/readme-jokes">
-    <img src="https://readme-jokes.vercel.app/api">
+    <img src="https://readme-jokes.vercel.app/api" title="Funny quote">
   </a>
 </div>
 
