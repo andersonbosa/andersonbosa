@@ -38,7 +38,7 @@
 - Developer at [Conviso](https://www.convisoappsec.com/)
 - I love a freshly brewed cup of coffee! :coffee:
 
-![Metrics](./github-metrics.svg)
+[![Metrics](./github-metrics.svg)](https://linkedin.com/in/andersonbosa)
 
 <!--
 ![Notable contributions](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/notable.svg)
