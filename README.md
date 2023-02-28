@@ -85,7 +85,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="40%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark" alt="Top Anderson languages" width="40%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="40%"/>
   </a>
 </div>
 
