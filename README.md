@@ -2,11 +2,11 @@
 
 <div align="left">
 
-  <a href="https://twitter.com/t4inha">
+  <a href="https://twitter.com/t4inha" target="_blank">
     <img src="https://img.shields.io/twitter/follow/t4inha?style=social&label=twitter" alt="Twitter" />
   </a>
 
-  <a href="https://www.linkedin.com/in/andersonbosa/">
+  <a href="https://www.linkedin.com/in/andersonbosa/" target="_blank">
     <img src="https://img.shields.io/static/v1?logo=linkedin&style=social&label=LinkedIn&message=%20" alt="LinkedIn" />
   </a>
 
@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/static/v1?logo=dev.to&style=social&label=Dev.to&message=%20" alt="Dev.to" />
   </a>
 
-
-  <a href="https://api.daily.dev/get?r=andersonbosa" target="_blank">
+  <!-- original: <a href="https://api.daily.dev/get?r=andersonbosa" target="_blank"> -->
+  <a href="https://app.daily.dev/t4inha" target="_blank">
     <img width="256" align="right"
       src="https://raw.githubusercontent.com/andersonbosa/andersonbosa/devcard/devcard.svg" />
   </a>
@@ -40,10 +40,10 @@
 
 <div align="center" id="extras">
   <h4 align="left">Quotes</h4>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" title="Random quote">
   </a>
-  <a href="https://github.com/ABSphreak/readme-jokes">
+  <a href="https://github.com/ABSphreak/readme-jokes" target="_blank">
     <img src="https://readme-jokes.vercel.app/api" title="Funny quote">
   </a>
 </div>
