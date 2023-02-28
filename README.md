@@ -12,7 +12,7 @@
     <a alt="Dev.to Badge" href="https://dev.to/t4inha" target="_blank"> 
       <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" /> 
     </a>
-    <a alt="Twitter Badge" href="https://img.shields.io/twitter/follow/t4inha" target="_blank"> 
+    <a alt="Twitter Badge" href="https://twitter.com/intent/follow?screen_name=t4inha" target="_blank"> 
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /> 
     </a>
   </p>
