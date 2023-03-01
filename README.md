@@ -72,26 +72,36 @@
   <img title="Markdown" alt="Markdown" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />&nbsp;
 </p>
 
----
 
-<div id="stats">
-  
-  <h3 align="left">My stats</h3>
-  <img align="right" src="github-metrics.svg"/>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats" width="40%"/>
-  </a>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="40%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="40%"/>
-  </a>
-</div>
 
 ---
 
-<div id="extras">
+<h3 align="left">My stats</h3>
+
+<img src="github-metrics.svg" width="40%" align="right"/>
+
+
+<section align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="50%"/>
+  </section>
+
+<section align="right">
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="30%" align="right" />
+
+</section>
+<img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats" width="50%"/>
+
+
+
+
+---
+
+<div id="extras" >
   <h3 align="left">Quotes</h3>
   <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" >
     <img
