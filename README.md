@@ -78,12 +78,11 @@
 
 <h3 align="left">My stats</h3>
 
-<img src="github-metrics.svg" width="40%" align="right"/>
-
+<img src="github-metrics.svg" width="45%" align="right"/>
 
 <section align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="50%"/>
-  </section>
+</section>
 
 <section align="right">
   <br />
@@ -91,13 +90,12 @@
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="30%" align="right" />
+  <br />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="40%" align="right" />
 </section>
+
 <img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats" width="50%"/>
-
-
-
 
 ---
 
