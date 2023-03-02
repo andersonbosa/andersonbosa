@@ -147,7 +147,6 @@
 </section>
 
 
-
 <!-- links -->
 [holopin]: https://holopin.io/@andersonbosa
 [holopin_board]: https://holopin.io/api/user/board?user=andersonbosa
