@@ -2,6 +2,8 @@
 
 name: Daily.dev Card
 
+concurrency: ci-${{ github.ref }}
+
 on:
   # (optional) Run workflow manually
   workflow_dispatch:
