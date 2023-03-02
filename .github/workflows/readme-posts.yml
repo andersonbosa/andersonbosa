@@ -2,6 +2,8 @@
 
 name: Add posts from Feed to README
 
+concurrency: ci-${{ github.ref }}
+
 on:
   # (optional) Run workflow manually
   workflow_dispatch:
