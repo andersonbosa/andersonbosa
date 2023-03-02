@@ -73,8 +73,8 @@
 </p>
 
 
-
 ---
+
 
 <h3 align="left">My stats</h3>
 
@@ -83,6 +83,7 @@
 <section align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="50%"/>
 </section>
+
 
 <section align="right">
   <br />
@@ -97,9 +98,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats" width="50%"/>
 
+
 ---
 
-<div id="extras" >
+
+<div>
   <h3 align="left">Quotes</h3>
   <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" >
     <img
@@ -119,21 +122,23 @@
   </a>
 </div>
 
-<div id="extras" >
-  <h3 align="justify">Blog posts</h3>
+
+---
+
+
+<div align="justify">
+  <h3 >Blog posts</h3>
   
-  <!-- BLOG-POST-LIST:START -->
-- [O poder por trás do terminal Linux](https://dev.to/t4inha/o-poder-por-tras-do-terminal-linux-2m63)
-- [The power behind the Linux terminal](https://dev.to/t4inha/the-power-behind-the-linux-terminal-189h)
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </div>
+
 
 <!-- FIXME
 ![Notable contributions](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/achievements.svg)
 [![@andersonbosa's Holopin board](https://holopin.io/api/user/board?user=andersonbosa)][holopin]
 -->
-
 
 
 <!-- links -->
