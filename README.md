@@ -119,12 +119,18 @@
   </a>
 </div>
 
+<div id="extras" >
+  <h3 align="justify">Blog posts</h3>
+  
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+</div>
 
 <!-- FIXME
 ![Notable contributions](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/achievements.svg)
 [![@andersonbosa's Holopin board](https://holopin.io/api/user/board?user=andersonbosa)][holopin]
 -->
+
 
 
 <!-- links -->
