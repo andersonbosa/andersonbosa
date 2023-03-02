@@ -72,77 +72,60 @@
   <img title="Markdown" alt="Markdown" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />&nbsp;
 </p>
 
-
 ---
 
-
-<h3 align="left">My stats</h3>
-
-<img src="github-metrics.svg" width="45%" align="right"/>
-
-<section align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="50%"/>
-</section>
-
-
-<section align="right">
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="40%" align="right" />
-</section>
-
-<img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats" width="50%"/>
-
-
----
-
-
-<div>
-  <h3 align="left">Quotes</h3>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" >
-    <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-      title="Random quote"
-      alt="Random quote"
-      width="60%"
-    />
+<div>  
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=andersonbosaa&redirect=true" target="_blank">
+    <img  align="right" width="256" src="https://spotify-github-profile.vercel.app/api/view?uid=andersonbosaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" />
   </a>
-  <a href="https://github.com/ABSphreak/readme-jokes" target="_blank">
-    <img 
-      src="https://readme-jokes.vercel.app/api"
-      title="Funny quote" 
-      alt="Funny quote" 
-      width="39%"
-    />
-  </a>
-</div>
 
-
----
-
-
-<div align="justify">
-  <h3 >Blog posts</h3>
-  
+  <h3>Publications</h3>
+    
 <!-- BLOG-POST-LIST:START -->
 - [O poder por trás do terminal Linux](https://dev.to/t4inha/o-poder-por-tras-do-terminal-linux-2m63)
 - [The power behind the Linux terminal](https://dev.to/t4inha/the-power-behind-the-linux-terminal-189h)
 <!-- BLOG-POST-LIST:END -->
+    
 </div>
 
+---
 
-<!-- FIXME
-![Notable contributions](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/andersonbosa/andersonbosa/github-metrics/achievements.svg)
-[![@andersonbosa's Holopin board](https://holopin.io/api/user/board?user=andersonbosa)][holopin]
+<details>
+  <summary>
+    <h4>Github stats</h4>
+  </summary>
+  
+  <section identantion-bug>
+    <img src="github-metrics.svg" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="40%" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats" width="50%"/>
+  </section>
+</details>
+
+<details>
+  <summary>
+    <h4>Quotes</h4>
+  </summary>
+
+  <section>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" >
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" title="Random quote" alt="Random quote" width="" />
+    </a>
+    <a href="https://github.com/ABSphreak/readme-jokes" target="_blank">
+      <img src="https://readme-jokes.vercel.app/api" title="Funny quote" alt="Funny quote" width="" />
+    </a>
+  </section>
+</details>
+
+
+
+
+<!-- 
+NOTE identantion-bug : the identation breaks the code when it is 'correct'
 -->
-
 
 <!-- links -->
 [holopin]: https://holopin.io/@andersonbosa
+[holopin_board]: https://holopin.io/api/user/board?user=andersonbosa
 [linkedin]: https://linkedin.com/in/andersonbosa
