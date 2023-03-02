@@ -16,10 +16,6 @@
       <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="BuyMeACoffee Badge" />
     </a>
   </p>
-  <p>
-    <!-- Check this: https://github.com/antonkomarev/github-profile-views-counter -->
-    <img src="https://komarev.com/ghpvc/?username=andersonbosa&color=grey" alt="Profile views">
-  </p>
 </div>
 
 <div align="left" id="dailydev">
@@ -27,6 +23,7 @@
     <img align="right" width="256" src="https://raw.githubusercontent.com/andersonbosa/andersonbosa/devcard/devcard.svg" />
   </a>
 </div>
+
 
 ### You can call me Anderson
 
@@ -99,22 +96,30 @@
 
 ---
 
-<details>
+<details id="github-stats">
   <summary>
     <h4>Github stats</h4>
   </summary>
   
-  <section identantion-bug>
-    <img src="github-metrics.svg" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" width="40%" align="right" />
-    <img src="https://github-readme-stats.vercel.app/api?username=andersonbosa&show_icons=true&theme=dracula" title="Github stats" width="50%"/>
+  <section align="center">
+    <div> 
+      <img src="github-metrics.svg" /> 
+    </div>
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbosa&theme=dracula" title="Github streaks" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbosa&layout=compact&theme=dracula" alt="Top Anderson languages" />
+    </div>
+    <br />
+    <p>
+      <i>NOTE: This does not indicate my skill level or language proficiency, 
+        it's merely a GitHub metric of which languages I have the most code of on GitHub.</i>
+    </p>
   </section>
 </details>
 
-<details>
+<details id="random-quotes">
   <summary>
-    <h4>Quotes</h4>
+    <h4>Random quotes</h4>
   </summary>
 
   <section>
@@ -127,12 +132,21 @@
   </section>
 </details>
 
+---
+
+<section align="center">
+  <p>
+    Feel free to <a href="#badges">contact</a> me for consulting or an interesting discussion,
+    I would love to be able to help ✌️
+  </p>
+  
+  <p>
+    <!-- Check this: https://github.com/antonkomarev/github-profile-views-counter -->
+    <img src="https://komarev.com/ghpvc/?username=andersonbosa&color=grey&label=Visitors" alt="Profile views">
+  </p>
+</section>
 
 
-
-<!-- 
-NOTE identantion-bug : the identation breaks the code when it is 'correct'
--->
 
 <!-- links -->
 [holopin]: https://holopin.io/@andersonbosa
