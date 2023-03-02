@@ -2,19 +2,23 @@
 
 <div id="badges" align="center">
   <p>
-    <!-- Check this: https://github.com/antonkomarev/github-profile-views-counter -->
-    <img src="https://komarev.com/ghpvc/?username=andersonbosa" alt="Profile views">
+    <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a title="Dev.to Badge" href="https://dev.to/t4inha" target="_blank">
+      <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Devto Badge" />
+    </a>
+    <wbr>
+    <a title="Twitter Badge" href="https://twitter.com/intent/follow?screen_name=t4inha" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-209bec?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    </a>
+    <a title="BuyMeACoffee Badge" href="https://buymeacoffee.com/intent/follow?screen_name=t4inha" target="_blank">
+      <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="BuyMeACoffee Badge" />
+    </a>
   </p>
   <p>
-    <a alt="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank"> 
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-    </a>
-    <a alt="Dev.to Badge" href="https://dev.to/t4inha" target="_blank"> 
-      <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" /> 
-    </a>
-    <a alt="Twitter Badge" href="https://twitter.com/intent/follow?screen_name=t4inha" target="_blank"> 
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /> 
-    </a>
+    <!-- Check this: https://github.com/antonkomarev/github-profile-views-counter -->
+    <img src="https://komarev.com/ghpvc/?username=andersonbosa&color=grey" alt="Profile views">
   </p>
 </div>
 
@@ -74,18 +78,23 @@
 
 ---
 
-<div>  
+<div>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=andersonbosaa&redirect=true" target="_blank">
-    <img  align="right" width="256" src="https://spotify-github-profile.vercel.app/api/view?uid=andersonbosaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" />
+    <img 
+      align="right" 
+      alt="Spotify playing" 
+      title="Spotify playing"
+      src="https://spotify-github-profile.vercel.app/api/view?uid=andersonbosaa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"
+    />
   </a>
 
   <h3>Publications</h3>
-    
-<!-- BLOG-POST-LIST:START -->
-- [O poder por trás do terminal Linux](https://dev.to/t4inha/o-poder-por-tras-do-terminal-linux-2m63)
-- [The power behind the Linux terminal](https://dev.to/t4inha/the-power-behind-the-linux-terminal-189h)
-<!-- BLOG-POST-LIST:END -->
-    
+
+  <!-- BLOG-POST-LIST:START -->
+  - [O poder por trás do terminal Linux](https://dev.to/t4inha/o-poder-por-tras-do-terminal-linux-2m63)
+  - [The power behind the Linux terminal](https://dev.to/t4inha/the-power-behind-the-linux-terminal-189h)
+  <!-- BLOG-POST-LIST:END -->
+
 </div>
 
 ---
