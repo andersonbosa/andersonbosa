@@ -1,12 +1,19 @@
-name: daily-devcard
+# doc: https://github.com/marketplace/actions/dailydotdev-devcard
+
+name: Daily.dev Card
 
 on:
+  # (optional) Run workflow manually
   workflow_dispatch:
+  
+  # (optional) Run workflow when pushing on master/main
   push:
     branches:
       - main
+  
+  # Schedule daily updates
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 * * * *'
 
 jobs:
   devcard:
@@ -19,4 +26,4 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
-          commit_message: "chore: update ${filename}"
+          commit_message: "chore: update daily.dev card on ${filename}"
