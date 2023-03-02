@@ -2,7 +2,9 @@
 
 name: Add posts from Feed to README
 
-concurrency: ci-${{ github.ref }}
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 on:
   # (optional) Run workflow manually
