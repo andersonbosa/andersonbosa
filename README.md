@@ -130,6 +130,8 @@
   <h3 >Blog posts</h3>
   
 <!-- BLOG-POST-LIST:START -->
+- [O poder por trás do terminal Linux](https://dev.to/t4inha/o-poder-por-tras-do-terminal-linux-2m63)
+- [The power behind the Linux terminal](https://dev.to/t4inha/the-power-behind-the-linux-terminal-189h)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
