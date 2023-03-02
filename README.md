@@ -12,9 +12,6 @@
     <a title="Twitter Badge" href="https://twitter.com/intent/follow?screen_name=t4inha" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-209bec?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
-    <a title="BuyMeACoffee Badge" href="https://buymeacoffee.com/intent/follow?screen_name=t4inha" target="_blank">
-      <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="BuyMeACoffee Badge" />
-    </a>
   </p>
 </div>
 
