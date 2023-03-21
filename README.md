@@ -78,7 +78,7 @@
       align="right" 
       alt="Spotify playing" 
       title="Spotify playing"
-      src="https://spotify-github-profile.vercel.app/api/view?uid=andersonbosaa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"
+      src="https://spotify-github-profile.vercel.app/api/view?uid=andersonbosaa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"
     />
   </a>
 
