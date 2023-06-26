@@ -17,9 +17,13 @@
 
 <div align="left" id="dailydev">
   <a href="https://app.daily.dev/t4inha" target="_blank">
-    <img align="right" width="256" src="https://raw.githubusercontent.com/andersonbosa/andersonbosa/devcard/devcard.svg" />
+    <img align="right" width="256" src="https://raw.githubusercontent.com/andersonbosa/andersonbosa/devcard/devcard.svg" /> 
   </a>
+
+  <a href="https://roadmap.sh"><img  width="270" align="right" src="https://api.roadmap.sh/v1-badge/tall/647745dcc4ec366ad5b4b260?variant=dark&roadmaps=backend%2Csoftware-architect%2Ccyber-security%2Cdevops" alt="roadmap.sh"/></a>
 </div>
+
+<wbr/>
 
 
 ### You can call me Anderson
@@ -27,6 +31,9 @@
 - Located on Brazil :brazil:
 - Backend engineer at [Conviso](https://www.convisoappsec.com/)
 - I love a freshly brewed cup of coffee! :coffee:
+
+
+
 
 ---
 
