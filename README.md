@@ -20,9 +20,11 @@
     <img align="right" width="256" src="https://raw.githubusercontent.com/andersonbosa/andersonbosa/devcard/devcard.svg" /> 
   </a>
 
+<!--
   <a href="https://roadmap.sh">
     <img width="270" align="right" src="https://api.roadmap.sh/v1-badge/tall/647745dcc4ec366ad5b4b260?variant=dark&roadmaps=backend%2Ccyber-security%2Csoftware-design-architecture%2Cdevops" alt="roadmap.sh"/>
   </a>
+-->
 </div>
 
 <wbr/>
