@@ -109,12 +109,20 @@
 
 ---
 
-<a href="https://leetcode.com/andersonbosa" target="_blank">
-  <img 
-    alt="Leet code stats" 
-    title="Leet code stats"
-    src="https://leetcard.jacoblin.cool/andersonbosa?theme=dark&font=Noto%20Sans%20Telugu&ext=heatmap"
-  />
+<details id="leetcode-stats">
+  <summary>
+    <h4>Leet Code stats</h4>
+  </summary>
+
+  <a href="https://leetcode.com/andersonbosa" target="_blank" >
+    <img 
+      width="340"
+      alt="Leet code stats" 
+      title="Leet code stats"
+      src="https://leetcard.jacoblin.cool/andersonbosa?theme=dark&font=Noto%20Sans%20Telugu&ext=heatmap"
+    />
+  </a>
+</details>
 
 <details id="github-stats">
   <summary>
