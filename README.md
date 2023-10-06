@@ -35,11 +35,12 @@
 
 ### You can call me Anderson
 
-- Located on Brazil :brazil:
-- Backend engineer at [Conviso](https://www.convisoappsec.com/)
+- I'm **#OpenToWork** and available to relocate!
+- Located in Brazil :brazil:
+- Software developer in both front and back-end development
+- Ex-former penetration tester with experience in the AppSec world
+- Currently stepping more into Engineering Leadership and DevOps/DevSecOps.
 - I love a freshly brewed cup of coffee! :coffee:
-
-
 
 
 ---
