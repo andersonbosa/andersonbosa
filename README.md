@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
   <p>
-    <a title="Curriculum Badge" href="https://andersonbosa.notion.site/Curriculum-Vitae-7dd46795204e48269a934a0dc568d130" target="_blank">
+    <a title="Curriculum Badge" href="https://andersonbosa.notion.site/Curriculum-Vitae-da8af3bc19c44366b0b59fce51e47ae7?pvs=4" target="_blank">
       <img src="https://img.shields.io/badge/Curriculum-FF6600?logo=notion&logoColor=black&fontColor=black&style=for-the-badge" alt="LinkedIn Badge" />
     </a>
     <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
