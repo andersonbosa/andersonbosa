@@ -2,21 +2,22 @@
 
 <div id="badges" align="center">
   <p>
-    <a title="Curriculum Badge" href="https://andersonbosa.notion.site/Curriculum-Vitae-da8af3bc19c44366b0b59fce51e47ae7?pvs=4" target="_blank">
-      <img src="https://img.shields.io/badge/Curriculum-FF6600?logo=notion&logoColor=white&fontColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+    <a title="Portifolio Badge" href="https://andersonbosa.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Website-orange?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
     </a>
-    <a title="bounties4.com/@/andersonbosa" href="https://app.bounties4.com/@/andersonbosa" target="_blank">
-      <img alt="bounties4.com/@/andersonbosa" src="https://img.shields.io/badge/Bounties4-purple?&logoColor=white&fontColor=black&style=for-the-badge" />
-    </a>
+    <br/>
     <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a title="Dev.to Badge" href="https://dev.to/t4inha" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Devto Badge" />
+      <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logoColor=white" alt="Devto Badge" />
     </a>
     <wbr>
     <a title="Twitter Badge" href="https://twitter.com/intent/follow?screen_name=t4inha" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-209bec?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+      <img src="https://img.shields.io/badge/Twitter-209bec?style=for-the-badge&logoColor=white" alt="Twitter Badge" />
+    </a>
+    <a title="bounties4.com/@/andersonbosa" href="https://app.bounties4.com/@/andersonbosa" target="_blank">
+      <img alt="bounties4.com/@/andersonbosa" src="https://img.shields.io/badge/Bounties4-purple?&logoColor=white&fontColor=black&style=for-the-badge" />
     </a>
   </p>
 </div>
