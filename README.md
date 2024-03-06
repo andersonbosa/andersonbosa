@@ -104,6 +104,7 @@
   <h3>Publications</h3>
 
   <!-- BLOG-POST-LIST:START -->
+- [LGPD para devs](https://dev.to/t4inha/lgpd-para-devs-mk0)
 - [The &quot;Something else&quot; option in Linux installation](https://dev.to/t4inha/the-something-else-option-in-linux-installation-1c54)
 - [Revolutionizing Git Workflow: My Experience with aicommits](https://dev.to/t4inha/my-experience-with-aicommits-794)
 - [How to use nodemon with VSCode debugger?](https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa)
