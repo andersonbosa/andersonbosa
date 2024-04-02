@@ -1,15 +1,4 @@
 
-
-### You can call me Anderson, a software engineer that loves learning, sharing, hacking and gamified stuff.
-
-- I'm **#OpenToWork** and available to relocate!
-- Located in Brazil :brazil:
-- Currently stepping more into Engineering Leadership and DevSecOps.
-- Software engineer since 2019 in full-stack development
-- Penetration tester with experience in the AppSec world
-- I love a freshly brewed cup of coffee! :coffee:
-
-
 <div id="badges" align="center">
   <p>
     <a title="Portifolio Badge" href="https://andersonbosa.vercel.app" target="_blank">
@@ -30,6 +19,16 @@
     </a> -->
   </p>
 </div>
+
+
+### You can call me Anderson, a software engineer that loves learning, sharing, hacking and gamified stuff.
+
+- I'm **#OpenToWork** and available to relocate!
+- Located in Brazil :brazil:
+- Currently stepping more into Engineering Leadership and DevSecOps.
+- Software engineer since 2019 in full-stack development
+- Penetration tester with experience in the AppSec world
+- I love a freshly brewed cup of coffee! :coffee:
 
 
 <!-- ### Main projects -->
