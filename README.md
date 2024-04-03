@@ -35,7 +35,8 @@
 
 <!-- ### Security Projects  -->
 
-<!-- ### IA Projects (built with AI or related to IA) -->
+### IA Projects (built with AI or related to IA)
+###### [👷‍♀️ Gu IA Assistant](https://github.com/andersonbosa/guia-cli): Gu, is a simple IA agent that specializes in software engineering, aiding in coding tasks and providing technical guidance.
 
 <!-- ### Web projects -->
 
