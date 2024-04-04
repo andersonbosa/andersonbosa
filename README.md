@@ -20,8 +20,11 @@
   </p>
 </div>
 
-
-### You can call me Anderson, a software engineer that loves learning, sharing, hacking and gamified stuff.
+<p align="center">
+  <strong>
+    You can call me Anderson, a software engineer who loves learning, sharing, hacking, and gamified stuff.
+  </strong>
+</p>
 
 - I'm **#OpenToWork** and available to relocate!
 - Located in Brazil :brazil:
@@ -31,9 +34,12 @@
 - I love a freshly brewed cup of coffee! :coffee:
 
 
+## Projects 
 <!-- ### Main projects -->
 
-<!-- ### Security Projects  -->
+### Security Projects
+
+###### * [🐐 Security Goat](https://github.com/andersonbosa/security-goat): Helps protect your applications on GitHub by blocking pipelines with security vulnerabilities detected by Dependabot.
 
 ### IA Projects (built with AI or related to IA)
 
@@ -51,10 +57,9 @@
 
 ###### * [🛳️ Droxy](https://github.com/andersonbosa/droxy): Droxy automates the setup of SOCKS5 tunnels via SSH, simplifying communication between Docker containers and applications on different networks.
 
-
 ---
 
-### Publications
+## Publications
 
 <!-- BLOG-POST-LIST:START -->
 - [LGPD para devs](https://dev.to/t4inha/lgpd-para-devs-mk0)
@@ -69,7 +74,7 @@
 
 ---
 
-### Techs which I worked
+## Techs which I worked
 
 <p>
   <!-- Languages -->
