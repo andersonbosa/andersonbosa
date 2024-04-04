@@ -75,6 +75,36 @@
 
 ###### * [🧑‍🎓 finger-counter.py](https://github.com/andersonbosa/finger-counter-py): Studies on how to perform "object position detection" so that I can use in another (secret muahaha) project.
 
+###### *[🏃‍♀️ Run Stremio, Run!!](https://github.com/andersonbosa/run-stremio-run): simple web application that allows users to connect their local Stremio Server to Stremio Web to watch what they want.
+
+###### * [🦸 API Consumer](https://github.com/andersonbosa/superhero-consumer): It's an API that cache responses from SuperHeroAPI. The main objective was to implement an API with the ability to search and cache another API.
+
+<!-- hidden section >:D
+
+#### Playgrounds/Learnings
+
+These are environments that I created to facilitate my study of some concepts/technology in question.
+
+* https://github.com/andersonbosa/ctfs
+* https://github.com/andersonbosa/learning-terraform
+* https://github.com/andersonbosa/github-actions-learn
+* https://github.com/andersonbosa/playground-crewai
+* https://github.com/andersonbosa/playground-rabbitmq
+* https://github.com/andersonbosa/playground-clojure
+* https://github.com/andersonbosa/playground-ruby
+
+#### To organize and add to my portfolio
+
+* https://github.com/andersonbosa/violentScripts
+* https://github.com/andersonbosa/khathuram-csv-search-upload
+* https://github.com/andersonbosa/finance-api-expressjs
+* https://github.com/andersonbosa/tic-tac-toe-react
+* https://github.com/andersonbosa/react-chat-app
+* https://github.com/andersonbosa/calc-app
+* https://github.com/andersonbosa/front-end-utils/
+
+-->
+
 <br/>
 
 ---
