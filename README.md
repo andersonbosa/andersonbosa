@@ -36,7 +36,8 @@
 <!-- ### Security Projects  -->
 
 ### IA Projects (built with AI or related to IA)
-###### [👷‍♀️ Gu IA Assistant](https://github.com/andersonbosa/guia-cli): Gu, is a simple IA agent that specializes in software engineering, aiding in coding tasks and providing technical guidance.
+
+###### * [👷‍♀️ Gu IA Assistant](https://github.com/andersonbosa/guia-cli): Gu, is a simple IA agent that specializes in software engineering, aiding in coding tasks and providing technical guidance.
 
 <!-- ### Web projects -->
 
@@ -44,7 +45,11 @@
 
 <!-- ### IoT Projects -->
 
-<!-- ### Others -->
+### Others
+
+###### * [🐚 Moshell.sh](https://github.com/andersonbosa/moshell.sh): Moshell.sh makes it easy to add and maintain shell customizations, allowing users to create and manage their own repository of customizations.
+
+###### * [🛳️ Droxy](https://github.com/andersonbosa/droxy): Droxy automates the setup of SOCKS5 tunnels via SSH, simplifying communication between Docker containers and applications on different networks.
 
 
 ---
