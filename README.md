@@ -33,31 +33,33 @@
 - Penetration tester with experience in the AppSec world
 - I love a freshly brewed cup of coffee! :coffee:
 
+<br/>
+
 ---
 
-## Projects 
+### Projects 
 <!-- ### Main projects -->
 
 
-### Security Projects
+#### Security Projects
 
 ###### * [🐐 Security Goat](https://github.com/andersonbosa/security-goat): Helps protect your applications on GitHub by blocking pipelines with security vulnerabilities detected by Dependabot.
 
 ###### * [🔎 Wayback.go](https://github.com/andersonbosa/wayback.go/tree/main): Golang tool simplifies Wayback Machine search on multiple targets, allowing users to search archived web pages with ease.
 
 
-### IA Projects (built with/related to IA)
+#### IA Projects (built with/related to IA)
 
 ###### * [👷‍♀️ Gu IA Assistant](https://github.com/andersonbosa/guia-cli): Gu, is a simple IA agent that specializes in software engineering, aiding in coding tasks and providing technical guidance.
 
-<!-- ### Web projects -->
+<!-- #### Web projects -->
 
-<!-- ### CLI Projects -->
+<!-- #### CLI Projects -->
 
-<!-- ### IoT Projects -->
+<!-- #### IoT Projects -->
 
 
-### Others
+#### Others
 
 ###### * [🐚 Moshell.sh](https://github.com/andersonbosa/moshell.sh): Moshell.sh makes it easy to add and maintain shell customizations, allowing users to create and manage their own repository of customizations.
 
@@ -73,10 +75,11 @@
 
 ###### * [🧑‍🎓 finger-counter.py](https://github.com/andersonbosa/finger-counter-py): Studies on how to perform "object position detection" so that I can use in another (secret muahaha) project.
 
+<br/>
 
 ---
 
-## Publications
+### Publications
 
 <!-- BLOG-POST-LIST:START -->
 - [LGPD para devs](https://dev.to/t4inha/lgpd-para-devs-mk0)
@@ -89,9 +92,11 @@
 
 </div>
 
+<br/>
+
 ---
 
-## Techs which I worked
+### Techs which I worked
 
 <p>
   <!-- Languages -->
@@ -130,6 +135,8 @@
   <img title="Slack" alt="Slack" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" />&nbsp;
   <img title="Markdown" alt="Markdown" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />&nbsp;
 </p>
+
+<br/>
 
 <!--
 ---
