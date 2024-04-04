@@ -33,6 +33,7 @@
 - Penetration tester with experience in the AppSec world
 - I love a freshly brewed cup of coffee! :coffee:
 
+---
 
 ## Projects 
 <!-- ### Main projects -->
