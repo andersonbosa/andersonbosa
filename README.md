@@ -14,9 +14,11 @@
     <a title="Twitter Badge" href="https://twitter.com/intent/follow?screen_name=t4inha" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-209bec?style=for-the-badge&logoColor=white" alt="Twitter Badge" />
     </a>
-    <!-- <a title="bounties4.com/@/andersonbosa" href="https://app.bounties4.com/@/andersonbosa" target="_blank">
+    <!--
+    <a title="bounties4.com/@/andersonbosa" href="https://app.bounties4.com/@/andersonbosa" target="_blank">
       <img alt="bounties4.com/@/andersonbosa" src="https://img.shields.io/badge/Bounties4-purple?&logoColor=white&fontColor=black&style=for-the-badge" />
-    </a> -->
+    </a>
+    -->
   </p>
 </div>
 
@@ -126,45 +128,63 @@ These are environments that I created to facilitate my study of some concepts/te
 
 ---
 
-### Techs which I worked
+### Tech's I worked with:
 
+<div>
 <p>
   <!-- Languages -->
   <img title="HTML5" alt="HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
   <img title="CSS3" alt="CSS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  />&nbsp;
   <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;
   <img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;
-  <img title="Python" alt="Python" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
   <img title="Typescript" alt="Typescript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />&nbsp;
+  <img title="Python" alt="Python" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
   <img title="Ruby" alt="Ruby" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" />&nbsp;
-  <img title="GraphQL" alt="GraphQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" />&nbsp;
+  <img title="Golang" alt="Golang" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />&nbsp;
+  <img title="C#" alt="C#" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />&nbsp;
+  <img title="Java" alt="Java" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp;
+  <img title="PHP" alt="PHP" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />&nbsp;
+</p>
+<p>
   <!-- Frameworks -->
   <img title="Rails" alt="Rails" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" />&nbsp;
   <img title="VueJS" alt="VueJS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" />&nbsp;
   <img title="React" alt="React" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />&nbsp;
   <img title="NextJS" alt="NextJS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" />&nbsp;
+  <img title="GraphQL" alt="GraphQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" />&nbsp;
   <!-- Databases -->
   <img title="MySQL"  alt="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
+  <img title="PostgreSQL"  alt="PostgreSQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;
+  <img title="Redis"  alt="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" />&nbsp;
+  <img title="MongoDB"  alt="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;
+</p>
+<p>
   <!-- Development Tools -->
   <img title="Git" alt="Git" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
   <img title="Github" alt="Github" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />&nbsp;
-  <img title="Docker" alt="Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />&nbsp;
   <img title="EslintJS" alt="EslintJS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" />&nbsp;
   <img title="BASH" alt="BASH" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />&nbsp;
   <img title="NPM" alt="NPM" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />&nbsp;
   <img title="YARN" alt="YARN" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" />&nbsp;
+  <!-- DevOps -->
+  <img title="Docker" alt="Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />&nbsp;
+  <img title="Kubernetes" alt="" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" />&nbsp;
+  <img title="terraform" alt="" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" />&nbsp;
+</p>
+<p>
   <!-- Tools -->
   <img title="SSH" alt="SSH" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" />&nbsp;
   <img title="VSCode" alt="VSCode" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />&nbsp;
   <img title="Insomnia"  alt="Insomnia" width="40" height="40" src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" />&nbsp;
   <img title="Postman"  alt="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;
+  <!-- Clouds/Cloud techs -->
+  <img title="Heroku" alt="Heroku" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />&nbsp;
+  <img title="Firebase" alt="Firebase" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" />&nbsp;
   <!-- Any -->
   <img title="Linux" alt="Linux" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />&nbsp;
-  <img title="Firebase" alt="Firebase" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" />&nbsp;
-  <img title="Heroku" alt="Heroku" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />&nbsp;
-  <img title="Slack" alt="Slack" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" />&nbsp;
-  <img title="Markdown" alt="Markdown" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />&nbsp;
+  <img title="Slack" alt="Slack" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />&nbsp;
 </p>
+</div>
 
 <br/>
 
