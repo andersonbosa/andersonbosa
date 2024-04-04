@@ -200,17 +200,17 @@ These are environments that I created to facilitate my study of some concepts/te
 
 ---
 
-<section align="center">
-  <p>
-    Feel free to <a href="#badges">contact</a> me for consulting or an interesting discussion,
-    I would love to be able to help ✌️
-  </p>
-  
-  <p>
-    <!-- Check this: https://github.com/antonkomarev/github-profile-views-counter -->
-    <img src="https://komarev.com/ghpvc/?username=andersonbosa&color=grey&label=Visitors" alt="Profile views">
-  </p>
-</section>
+<div align="center">
+<p>
+  Feel free to <a href="#badges">contact</a> me for consulting or an interesting discussion,
+  I would love to be able to help ✌️
+</p>
+
+<p>
+  <!-- Check this: https://github.com/antonkomarev/github-profile-views-counter -->
+  <img src="https://komarev.com/ghpvc/?username=andersonbosa&color=grey&label=Visitors" alt="Profile views">
+</p>
+</div>
 
 
 <!-- links -->
