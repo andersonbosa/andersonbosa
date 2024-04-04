@@ -42,7 +42,9 @@
 
 ###### * [🐐 Security Goat](https://github.com/andersonbosa/security-goat): Helps protect your applications on GitHub by blocking pipelines with security vulnerabilities detected by Dependabot.
 
-### IA Projects (built with AI or related to IA)
+###### * [🔎 Wayback.go](https://github.com/andersonbosa/wayback.go/tree/main): Golang tool simplifies Wayback Machine search on multiple targets, allowing users to search archived web pages with ease.
+
+### IA Projects (built with/related to IA)
 
 ###### * [👷‍♀️ Gu IA Assistant](https://github.com/andersonbosa/guia-cli): Gu, is a simple IA agent that specializes in software engineering, aiding in coding tasks and providing technical guidance.
 
@@ -57,6 +59,15 @@
 ###### * [🐚 Moshell.sh](https://github.com/andersonbosa/moshell.sh): Moshell.sh makes it easy to add and maintain shell customizations, allowing users to create and manage their own repository of customizations.
 
 ###### * [🛳️ Droxy](https://github.com/andersonbosa/droxy): Droxy automates the setup of SOCKS5 tunnels via SSH, simplifying communication between Docker containers and applications on different networks.
+
+###### * [🌳 Tri](https://github.com/andersonbosa/tri): This application is a simple "To-do Manager". It is a CLI written in Golang created to get introduced to the language and good CLI practices.
+
+###### * [🍨 IsCreamRecord](https://github.com/andersonbosa/IsCreamRecord.py): Tool for collecting image data from computer screen or live camera feed.
+
+###### * [🚙 car-speed-tracking](https://github.com/andersonbosa/car-speed-tracking): Simple application of how to use the "OpenCV" python module to track an object in real-time from a video source.
+
+###### * [🧑‍🎓 finger-counter-py](https://github.com/andersonbosa/finger-counter-py): Studies on how to perform "object position detection" so that I can use in another (secret muahaha) project.
+
 
 ---
 
