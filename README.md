@@ -1,26 +1,19 @@
 
-<div id="badges" align="center">
-  <p>
-    <a title="Portifolio Badge" href="https://andersonbosa.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Website-orange?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
-    </a>
-    <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a title="Dev.to Badge" href="https://dev.to/t4inha" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logoColor=white" alt="Devto Badge" />
-    </a>
-    <wbr>
-    <a title="Twitter Badge" href="https://twitter.com/intent/follow?screen_name=t4inha" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-209bec?style=for-the-badge&logoColor=white" alt="Twitter Badge" />
-    </a>
-    <!--
-    <a title="bounties4.com/@/andersonbosa" href="https://app.bounties4.com/@/andersonbosa" target="_blank">
-      <img alt="bounties4.com/@/andersonbosa" src="https://img.shields.io/badge/Bounties4-purple?&logoColor=white&fontColor=black&style=for-the-badge" />
-    </a>
-    -->
-  </p>
-</div>
+<p id="badges" align="center">
+  <a href="mailto:andersonbosa0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a title="Portifolio Badge" href="https://andersonbosa.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Website-orange?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
+  </a>
+  <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a title="Dev.to Badge" href="https://dev.to/t4inha" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-222?style=for-the-badge&logoColor=white" alt="Devto Badge" />
+  </a>
+</p>
+
 
 <p align="center">
   <strong>
@@ -35,7 +28,9 @@
 - Penetration tester with experience in the AppSec world
 - I love a freshly brewed cup of coffee! :coffee:
 
-<br/>
+<h4 align="center">
+  Take a look at <a href="https://andersonbosa.vercel.app/">my portfolio</a>!
+</h4>
 
 ---
 
@@ -128,9 +123,8 @@ These are environments that I created to facilitate my study of some concepts/te
 
 ---
 
-### Tech's I worked with:
-
-<div>
+<div align="center">
+<h3> Tech's I worked with </h3>
 <p>
   <!-- Languages -->
   <img title="HTML5" alt="HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
