@@ -42,7 +42,7 @@
 
 ###### * [🐐 Security Goat](https://github.com/andersonbosa/security-goat): Helps protect your applications on GitHub by blocking pipelines with security vulnerabilities detected by Dependabot.
 
-###### * [🔎 Wayback.go](https://github.com/andersonbosa/wayback.go/tree/main): Golang tool simplifies Wayback Machine search on multiple targets, allowing users to search archived web pages with ease.
+###### * [🔎 Wayback.go](https://github.com/andersonbosa/wayback.go/tree/main): A tool to simplify Wayback Machine search on multiple targets, allowing users to search archived web pages with ease.
 
 
 #### IA Projects (built with/related to IA)
