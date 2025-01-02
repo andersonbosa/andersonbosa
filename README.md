@@ -21,7 +21,7 @@
   </strong>
 </p>
 
-- I'm **#OpenToWork** and available to relocate!
+<!-- - I'm **#OpenToWork** and available to relocate! -->
 - Located in Brazil :brazil:
 - Currently stepping more into Engineering Leadership and DevSecOps.
 - Software engineer since 2019 in full-stack development
