@@ -1,16 +1,16 @@
 
 <p id="badges" align="center">
   <a href="mailto:andersonbosa0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/MAIL-gray?style=for-the-badge&logo=apple&logoColor=white" alt="Email"/>
   </a>
   <a title="Portifolio Badge" href="https://andersonbosa.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Website-orange?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
+    <img src="https://img.shields.io/badge/Website-orange?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
   </a>
   <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a title="Dev.to Badge" href="https://dev.to/t4inha" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-222?style=for-the-badge&logoColor=white" alt="Devto Badge" />
+    <img src="https://img.shields.io/badge/Dev.to-222?style=for-the-badge&logoColor=white" alt="Devto Badge" />
   </a>
 </p>
 
