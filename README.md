@@ -22,6 +22,7 @@
 </p>
 
 <!-- - I'm **#OpenToWork** and available to relocate! -->
+- Learning everyday working at [@mercadolibre](https://github.com/mercadolibre)!
 - Located in Brazil :brazil:
 - Currently stepping more into Engineering Leadership and DevSecOps.
 - Software engineer since 2019 in full-stack development
