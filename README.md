@@ -110,12 +110,14 @@ These are environments that I created to facilitate my study of some concepts/te
 ### Publications
 
 <!-- BLOG-POST-LIST:START -->
+- [Subdomain or Subfolder: Which Is Better for Your Site’s SEO?](https://dev.to/t4inha/subdomain-or-subfolder-which-is-better-for-your-sites-seo-paf)
+- [Do you know how to evaluate performance of your Java applications?](https://dev.to/t4inha/do-you-know-how-to-evaluate-performance-of-your-java-applications-37b8)
+- [Você sabe avaliar performance de suas aplicações Java?](https://dev.to/t4inha/voce-sabe-avaliar-performance-de-suas-aplicacoes-java-1a2n)
 - [LGPD para devs](https://dev.to/t4inha/lgpd-para-devs-mk0)
 - [The &quot;Something else&quot; option in Linux installation](https://dev.to/t4inha/the-something-else-option-in-linux-installation-1c54)
 - [Revolutionizing Git Workflow: My Experience with aicommits](https://dev.to/t4inha/my-experience-with-aicommits-794)
 - [How to use nodemon with VSCode debugger?](https://dev.to/t4inha/how-to-use-nodemon-with-vscode-debugger-2bpa)
 - [O poder por trás do terminal Linux](https://dev.to/t4inha/o-poder-por-tras-do-terminal-linux-2m63)
-- [The power behind the Linux terminal](https://dev.to/t4inha/the-power-behind-the-linux-terminal-189h)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
