@@ -1,8 +1,5 @@
 
 <p id="badges" align="center">
-  <a href="mailto:andersonbosa0@gmail.com">
-    <img src="https://img.shields.io/badge/MAIL-gray?style=for-the-badge&logo=apple&logoColor=white" alt="Email"/>
-  </a>
   <a title="Portifolio Badge" href="https://andersonbosa.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-orange?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
   </a>
@@ -14,11 +11,9 @@
   </a>
 </p>
 
-
 <p align="center">
-  <strong>
-    You can call me Anderson, a software engineer who loves learning, sharing, hacking, and gamified stuff.
-  </strong>
+   You can call me Anderson!
+  Coding since Tibia 8 was released, developer and cyber security analyst. Hungry to learn, glad to share.
 </p>
 
 <!-- - I'm **#OpenToWork** and available to relocate! -->
@@ -30,8 +25,9 @@
 - I love a freshly brewed cup of coffee! :coffee:
 
 <h4 align="center">
-  Take a look at <a href="https://andersonbosa.vercel.app/">my portfolio</a>!
+  Take a second to look <a href="https://andersonbosa.vercel.app/">my portfolio</a>!
 </h4>
+
 
 ---
 
