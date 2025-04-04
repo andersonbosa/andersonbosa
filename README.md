@@ -13,7 +13,7 @@
 
 <p align="center">
    You can call me Anderson!
-  Coding since Tibia 8 was released, developer and cyber security analyst. Hungry to learn, glad to share.
+  Coding since Tibia 7.5 was released, developer and cyber security analyst. Hungry to learn, glad to share.
 </p>
 
 <!-- - I'm **#OpenToWork** and available to relocate! -->
