@@ -1,11 +1,13 @@
 
 <p id="badges" align="center">
   <a title="Portifolio Badge" href="https://andersonbosa.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-orange?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
+    <img src="https://img.shields.io/badge/Website-222?&logoColor=white&fontColor=black&style=for-the-badge" alt="Portifolio Badge" />
   </a>
+  &MediumSpace;&MediumSpace;&MediumSpace;
   <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-046292?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  &MediumSpace;&MediumSpace;&MediumSpace;
   <a title="Dev.to Badge" href="https://dev.to/t4inha" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-222?style=for-the-badge&logoColor=white" alt="Devto Badge" />
   </a>
