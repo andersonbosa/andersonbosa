@@ -21,10 +21,9 @@
 <!-- - I'm **#OpenToWork** and available to relocate! -->
 - Learning everyday working at [@mercadolibre](https://github.com/mercadolibre)!
 - Located in Brazil :brazil:
-- Currently stepping more into Engineering Leadership and DevSecOps.
-- Software engineer since 2019 in full-stack development
-- Penetration tester with experience in the AppSec world
-- I love a freshly brewed cup of coffee! :coffee:
+- Software engineer since 2019 in full-stack development.
+- Currently stepping more into Leadership and Solutions Engineering.
+- Penetration tester with experience in the AppSec intrustry.
 
 <h4 align="center">
   Take a second to look <a href="https://andersonbosa.com/">my page</a>!
