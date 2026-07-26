@@ -1,15 +1,15 @@
 
 <p id="badges" align="center">
   <a title="Portifolio Badge" href="https://andersonbosa.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="Portifolio Badge" />
+    <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge" alt="Portifolio Badge" />
   </a>
   &MediumSpace;&MediumSpace;&MediumSpace;
   <a title="LinkedIn Badge" href="https://www.linkedin.com/in/andersonbosa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge" alt="LinkedIn Badge" />
   </a>
   &MediumSpace;&MediumSpace;&MediumSpace;
   <a title="Dev.to Badge" href="https://dev.to/t4inha" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge" alt="Devto Badge" />
+    <img src="https://img.shields.io/badge/Dev.to-orange?style=for-the-badge" alt="Devto Badge" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 <p>
-  Feel free to <a href="#badges">contact</a> me for consulting or an interesting discussion,
+  Feel free to <a href="https://www.linkedin.com/in/andersonbosa">contact</a> me for consulting or an interesting discussion,
   I would love to be able to help ✌️
 </p>
 
